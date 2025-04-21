@@ -6,11 +6,11 @@ Contiene dos notebooks de Python ('Notebook5.ipynb' y 'Notebook7.ipynb') que rea
 Para que los notebooks funcionen correctamente, es necesario tener en el mismo directorio los siguientes archivos:
 - StudentsPerformance.csv
 - LifeExpectancyData.csv
-## 🛠️ Requisitos
+## Requisitos
 - Python 3.x
 - Jupyter Notebook o JupyterLab
 - Bibliotecas:
   - NumPy
-  - pandas
+  - Pandas
 ## Autora
 Andrea Beatriz Rodriguez
