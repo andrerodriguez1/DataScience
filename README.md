@@ -18,5 +18,7 @@ Para que los notebooks funcionen correctamente, es necesario tener los siguiente
   - Pandas
 ## 👩‍💻 Autora
 Andrea Beatriz Rodriguez
+
 📫 https://www.linkedin.com/in/andrea-rodriguez1/
+
 📍 Buenos Aires, Argentina
