@@ -3,8 +3,8 @@ Este repositorio contiene las pre-entregas correspondientes al curso de **Data S
 ## 🧪 Notebooks: Análisis de datos en Python
 Incluye dos notebooks:
 
-- Notebook_5.ipynb
-- Notebook_7.ipynb
+- *Notebook_5.ipynb*
+- *Notebook_7.ipynb*
 
 Ambos están enfocados en la exploración y análisis de datos utilizando las bibliotecas **Numpy** y **Pandas**.
 ## 📘 Descripción de los notebooks
