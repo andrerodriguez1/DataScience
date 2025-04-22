@@ -34,7 +34,7 @@ Para que los notebooks funcionen correctamente, es necesario tener los siguiente
 - StudentsPerformance.csv
 - LifeExpectancyData.csv
 ## Requisitos
-- Python 3.x
+- Python 3.7 o superior
 - Jupyter Notebook o JupyterLab
 ## 📚 Librerias
   - Numpy
