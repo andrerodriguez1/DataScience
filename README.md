@@ -13,8 +13,11 @@ Se incluyen dos notebooks que abordan conceptos clave de análisis de datos util
 Este notebook presenta la librería NumPy, una herramienta esencial para el manejo de arreglos y operaciones matemáticas en Python. Los temas abordados incluyen:
 
 -Introducción a NumPy y sus ventajas.
+
 -Creación y manipulación de arrays.
+
 -Operaciones matemáticas básicas con arrays.
+
 -Indexación, slicing y funciones estadísticas.
 
 ---
@@ -24,9 +27,13 @@ Este notebook presenta la librería NumPy, una herramienta esencial para el mane
 En este notebook se utiliza la librería Pandas para realizar un análisis exploratorio de datos a partir del archivo LifeExpectancyData.csv. Se desarrollan los siguientes aspectos:
 
 -Importación, inspección y limpieza del dataset.
+
 -Análisis exploratorio y estadísticas descriptivas.
+
 -Agrupamiento por variables clave (como país o año).
+
 -Exploración de variables relevantes como expectativa de vida, ingreso per cápita, mortalidad infantil, entre otras.
+
 
 ##  📁 Archivos necesarios
 Para que los notebooks funcionen correctamente, es necesario tener los siguientes archivos (*.csv*) en el mismo directorio:
