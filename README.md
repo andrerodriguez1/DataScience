@@ -4,6 +4,7 @@ Este repositorio contiene las pre-entregas correspondientes al curso de **Data S
 Incluye dos notebooks:  
 - Notebook5.ipynb  
 - Notebook7.ipynb
+
 Ambos están enfocados en la exploración y análisis de datos utilizando las bibliotecas **NumPy** y **Pandas**.
 ## Contenido
 Para que los notebooks funcionen correctamente, es necesario tener los siguientes archivos (*.csv*) en el mismo directorio:
