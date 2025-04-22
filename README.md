@@ -6,11 +6,11 @@ Se incluyen dos notebooks que abordan conceptos clave de análisis de datos util
 - *Notebook_5.ipynb*
 - *Notebook_7.ipynb*
 
-## 📘 Descripción de los notebooks
+## 📘 Descripción de las notebooks
 
 ### 🔹 Notebook 5: Introducción a NumPy
 
-Este notebook presenta la librería NumPy, una herramienta esencial para el manejo de arreglos y operaciones matemáticas en Python. Los temas abordados incluyen:
+Esta notebook presenta la librería NumPy, una herramienta esencial para el manejo de arreglos y operaciones matemáticas en Python. Los temas abordados incluyen:
 
 - Introducción a NumPy y sus ventajas.
 - Creación y manipulación de arrays.
@@ -21,7 +21,7 @@ Este notebook presenta la librería NumPy, una herramienta esencial para el mane
 
 ### 🔹 Notebook 7: Análisis de datos con Pandas
 
-En este notebook se utiliza la librería Pandas para realizar un análisis exploratorio de datos a partir del archivo LifeExpectancyData.csv. Se desarrollan los siguientes aspectos:
+En esta notebook se utiliza la librería Pandas para realizar un análisis exploratorio de datos a partir del archivo LifeExpectancyData.csv. Se desarrollan los siguientes aspectos:
 
 - Importación, inspección y limpieza del dataset.
 - Análisis exploratorio y estadísticas descriptivas.
@@ -29,8 +29,7 @@ En este notebook se utiliza la librería Pandas para realizar un análisis explo
 - Exploración de variables relevantes como expectativa de vida, ingreso per cápita, mortalidad infantil, entre otras.
 
 ##  📁 Archivos necesarios
-Para que los notebooks funcionen correctamente, es necesario tener los siguientes archivos (*.csv*) en el mismo directorio:
-- StudentsPerformance.csv
+Para el correcto funcionamiento, es necesario tener el siguiente archivos (*.csv*) en el mismo directorio:
 - LifeExpectancyData.csv
 ## ⚙️ Requisitos
 - Python 3.7 o superior
