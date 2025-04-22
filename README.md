@@ -21,20 +21,20 @@ Esta notebook presenta la librería NumPy, una herramienta esencial para el mane
 
 ### 🔹 Notebook 7: Análisis de datos con Pandas
 
-En esta notebook se utiliza la librería Pandas para realizar un análisis exploratorio de datos a partir del archivo LifeExpectancyData.csv. Se desarrollan los siguientes aspectos:
+En esta notebook se utiliza la librería Pandas para realizar un análisis exploratorio de datos a partir del archivo *LifeExpectancyData.csv*. Se desarrollan los siguientes aspectos:
 
-- Importación, inspección y limpieza del dataset.
+- Importación, inspección y limpieza del *dataset*.
 - Análisis exploratorio y estadísticas descriptivas.
 - Agrupamiento por variables clave (como país o año).
 - Exploración de variables relevantes como expectativa de vida, ingreso per cápita, mortalidad infantil, entre otras.
 
 ##  📁 Archivos necesarios
-Para el correcto funcionamiento, es necesario tener el siguiente archivos (*.csv*) en el mismo directorio:
+Para el correcto funcionamiento, es necesario tener el siguiente archivo (*.csv*) en el mismo directorio:
 - LifeExpectancyData.csv
 ## ⚙️ Requisitos
 - Python 3.7 o superior
 - **Jupyter Notebook** o **JupyterLab**
-- Alternativamente, los notebooks pueden ejecutarse directamente en **Google Colab** sin necesidad de instalar nada localmente. Asegurase de subir también los archivos *.csv* al entorno de ejecución.
+- Alternativamente, los notebooks pueden ejecutarse directamente en **Google Colab** sin necesidad de instalar nada localmente. Chequear subir también los archivos *.csv* al entorno de ejecución.
 ## 📚 Librerias utilizadas
   - **Numpy**
   - **Pandas**
