@@ -1,5 +1,3 @@
-# 📊 Curso de Data Science - Ingenias+
-Este repositorio contiene las pre-entregas correspondientes al curso de **Data Science** dictado por **Ingenias+**
 ## 🧪 Notebooks: Análisis de datos en Python
 Se incluyen dos notebooks que abordan conceptos clave de análisis de datos utilizando las bibliotecas Numpy y Pandas:
 
